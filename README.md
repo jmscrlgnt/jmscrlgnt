@@ -1,5 +1,4 @@
-👋 Hi, I’m James Carl Giente!
-🎯 Aspiring Software Developer from the Philippines
+👋 Hi, I’m James Carl Giente! 🎯 Aspiring Software Developer from the Philippines
 🔧 Currently honing technical skills in C#, Java, VB, JavaScript, etc.
 🌟 Core Skills
 📅 Organizing and Planning 
