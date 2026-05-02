@@ -88,21 +88,30 @@ Collection of web applications demonstrating CRUD operations, database integrati
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Insights
 
 <p align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jmscrlgnt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmscrlgnt&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://streak-stats.demolab.com?user=jmscrlgnt&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jmscrlgnt&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jmscrlgnt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmscrlgnt&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
+
+## 📈 Developer Highlights
+
+- 🚀 Actively building full-stack systems and real-world applications  
+- 💻 Experience in web, desktop, and database-driven systems  
+- 🔧 Strong focus on backend logic and system design  
+- 📚 Continuously learning and improving development skills  
 
 ---
 
