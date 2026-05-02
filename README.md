@@ -78,11 +78,6 @@ Web-based platform for managing vehicle listings, customer inquiries, and servic
 
 ---
 
-### 🎌 Anime Voting System
-Interactive voting system where users can vote, track results, and manage rankings of anime openings  
-
----
-
 ### 🌐 Dynamic CRUD Web Systems
 Collection of web applications demonstrating CRUD operations, database integration, and user interaction  
 
