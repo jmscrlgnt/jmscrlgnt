@@ -92,9 +92,15 @@ Collection of web applications demonstrating CRUD operations, database integrati
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jmscrlgnt&show_icons=true&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jmscrlgnt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
-<img height="170em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jmscrlgnt&layout=compact&theme=tokyonight"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmscrlgnt&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=jmscrlgnt&theme=tokyonight&hide_border=true"/>
 
 </p>
 
