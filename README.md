@@ -88,11 +88,6 @@ Collection of web applications demonstrating CRUD operations, database integrati
 
 ---
 
-### 💻 Skill-based Hiring Platform
-Prototype system focused on matching users to opportunities based on skills and qualifications (early version of SkillSync)
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
