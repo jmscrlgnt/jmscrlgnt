@@ -15,18 +15,27 @@ Passionate about building systems, web apps, and solving real-world problems thr
 </p>
 
 <p align="center">
-📫 Email: <b>gientejames@gmail.com</b>
+📫 Email: **[gientejames@gmail.com](mailto:gientejames@gmail.com)**
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 3rd Year Computer Science Student  
-- 💻 Aspiring Software Developer / Engineer  
-- 📚 Currently learning and improving skills daily  
-- ⚡ Strong logic and problem-solving skills  
-- 🤝 Open for internships, freelance work, and collaborations  
+- 🎓 3rd Year Computer Science Student
+- 💻 Aspiring Software Developer / Engineer
+- 📚 Focused on building real-world systems and full-stack applications
+- ⚡ Strong in problem-solving, system design, and backend logic 
+- 🤝 Open for internships, freelance work, and collaborations 
+
+---
+
+## 🚀 What I Build
+
+- Full-stack web applications (PHP, Node.js)
+- Desktop systems (VB.NET, C#)
+- Database-driven systems (MySQL)
+- Admin dashboards & authentication systems
 
 ---
 
@@ -42,14 +51,45 @@ Passionate about building systems, web apps, and solving real-world problems thr
 
 ## 💼 Featured Projects
 
-- 🎵 Music / Video Player App  
-- 📡 RFID Attendance System  
-- 📦 Inventory Management System  
-- 🛒 POS System  
-- 🚗 Vehicle Shop Platform  
-- 🎌 Anime Voting System  
-- 🌐 Dynamic CRUD Web Systems
-- 💻 Skill-based Hiring Platform 
+### 💻 SkillSync Job Matching System
+Full-stack job matching platform with authentication, admin dashboard, and skill-based recommendations  
+🔗 https://github.com/jmscrlgnt/skillsync-job-matching-system  
+
+---
+
+### 🎌 Anime Opening Voting System
+VB.NET desktop system with admin panel, login system, and vote tracking  
+🔗 https://github.com/jmscrlgnt/anime-opening-voting-system-vbnet  
+
+---
+
+### 📡 RFID Attendance System
+C# system for tracking attendance using RFID technology, enabling automated and efficient attendance monitoring  
+
+---
+
+### 🛒 POS System
+Point-of-sale system for managing sales, inventory, and transactions for small businesses  
+
+---
+
+### 🚗 Vehicle Shop Platform
+Web-based platform for managing vehicle listings, customer inquiries, and service transactions  
+
+---
+
+### 🎌 Anime Voting System
+Interactive voting system where users can vote, track results, and manage rankings of anime openings  
+
+---
+
+### 🌐 Dynamic CRUD Web Systems
+Collection of web applications demonstrating CRUD operations, database integration, and user interaction  
+
+---
+
+### 💻 Skill-based Hiring Platform
+Prototype system focused on matching users to opportunities based on skills and qualifications (early version of SkillSync)
 
 ---
 
