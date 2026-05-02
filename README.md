@@ -101,7 +101,7 @@ Collection of web applications demonstrating CRUD operations, database integrati
 
 ---
 
-## 📈 Developer Highlights
+## 📈 Status Highlights
 
 - 🚀 Actively building full-stack systems and real-world applications  
 - 💻 Experience in web, desktop, and database-driven systems  
