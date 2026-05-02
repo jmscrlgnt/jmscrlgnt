@@ -15,7 +15,7 @@ Passionate about building systems, web apps, and solving real-world problems thr
 </p>
 
 <p align="center">
-📫 Email: **[gientejames@gmail.com](mailto:gientejames@gmail.com)**
+📫 Email: <a href="mailto:gientejames@gmail.com">gientejames@gmail.com</a>
 </p>
 
 ---
