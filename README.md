@@ -30,7 +30,7 @@ I am currently strengthening my skills in JavaScript, web development, SQL, Node
 - **Languages:** JavaScript, PHP, C#, VB.NET, Java, C++, SQL
 - **Web:** HTML, CSS, JavaScript, Node.js, Express
 - **Database:** MySQL
-- **Tools:** Git, GitHub, Linux, Visual Studio Code
+- **Tools:** Git, GitHub, Dbeaver, VS Code, Visual Studio
 
 ## Projects
 
