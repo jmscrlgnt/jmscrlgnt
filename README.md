@@ -1,117 +1,105 @@
-<h1 align="center">Hi 👋, I'm James Carl Giente</h1>
-<h3 align="center">Aspiring Software Developer from the Philippines 🇵🇭</h3>
+<h1 align="center">James Carl Giente</h1>
 
 <p align="center">
-Passionate about building systems, web apps, and solving real-world problems through code.
+Computer Science Student | Aspiring Software Developer
 </p>
 
 <p align="center">
-<a href="https://www.facebook.com/jamescarl.giente">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/jmscrl_gnt/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+Philippines
 </p>
 
 <p align="center">
-📫 Email: <a href="mailto:gientejames@gmail.com">gientejames@gmail.com</a>
+<a href="mailto:gientejames@gmail.com">Email</a> ·
+<a href="https://github.com/jmscrlgnt">GitHub</a> ·
+<a href="https://www.facebook.com/jamescarl.giente">Facebook</a> ·
+<a href="https://www.instagram.com/jmscrl_gnt/">Instagram</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 3rd Year Computer Science Student
-- 💻 Aspiring Software Developer / Engineer
-- 📚 Focused on building real-world systems and full-stack applications
-- ⚡ Strong in problem-solving, system design, and backend logic 
-- 🤝 Open for internships, freelance work, and collaborations 
+I am a fourth-year Computer Science student focused on software development and building practical, real-world applications.
 
----
+My interests include full-stack web development, backend development, databases, system design, and software engineering.
 
-## 🚀 What I Build
+I am currently strengthening my skills in JavaScript, web development, SQL, Node.js, and related development technologies.
 
-- Full-stack web applications (PHP, Node.js)
-- Desktop systems (VB.NET, C#)
-- Database-driven systems (MySQL)
-- Admin dashboards & authentication systems
+## Technologies
 
----
+- **Languages:** JavaScript, PHP, C#, VB.NET, Java, C++, SQL
+- **Web:** HTML, CSS, JavaScript, Node.js, Express
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Linux, Visual Studio Code
 
-## 🛠️ Tech Stack
+## Projects
 
-<p align="center">
+### SkillSync Job Matching System
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,nodejs,express,html,css,mysql,git,linux,vscode" />
+Full-stack job matching platform featuring authentication, administrative management, and skill-based job recommendations.
 
-</p>
+**Technologies:** PHP, MySQL
 
----
-
-## 💼 Featured Projects
-
-### 💻 SkillSync Job Matching System
-Full-stack job matching platform with authentication, admin dashboard, and skill-based recommendations  
-🔗 https://github.com/jmscrlgnt/skillsync-job-matching-system  
+Repository:  
+https://github.com/jmscrlgnt/skillsync-job-matching-system
 
 ---
 
-### 🎌 Anime Opening Voting System
-VB.NET desktop system with admin panel, login system, and vote tracking  
-🔗 https://github.com/jmscrlgnt/anime-opening-voting-system-vbnet  
+### Multi-Core CPU Task Manager
+
+Interactive operating system simulator for process scheduling and multi-core CPU resource allocation.
+
+Features include FCFS, SJF, Priority, and Round Robin scheduling, configurable CPU cores, execution timelines, process metrics, and CPU performance statistics.
+
+**Technologies:** HTML, CSS, JavaScript
 
 ---
 
-### 📡 RFID Attendance System
-C# system for tracking attendance using RFID technology, enabling automated and efficient attendance monitoring  
+### Anime Opening Voting System
+
+Desktop voting system with authentication, administrative controls, and vote tracking.
+
+**Technology:** VB.NET
+
+Repository:  
+https://github.com/jmscrlgnt/anime-opening-voting-system-vbnet
 
 ---
 
-### 🛒 POS System
-Point-of-sale system for managing sales, inventory, and transactions for small businesses  
+### RFID Attendance System
+
+Attendance management system using RFID technology for automated attendance monitoring.
+
+**Technology:** C#
 
 ---
 
-### 🚗 Vehicle Shop Platform
-Web-based platform for managing vehicle listings, customer inquiries, and service transactions  
+### POS System
+
+Point-of-sale system for managing sales, inventory, and business transactions.
+
+**Technologies:** VB.NET, MySQL
 
 ---
 
-### 🌐 Dynamic CRUD Web Systems
-Collection of web applications demonstrating CRUD operations, database integration, and user interaction  
+### Vehicle Shop Platform
+
+Web-based system for managing vehicle listings, customer inquiries, and service-related transactions.
+
+**Technologies:** Web technologies, MySQL
 
 ---
 
-## 📊 GitHub Activity & Insights
+## Current Focus
 
-<p align="center">
+- Full-stack web development
+- JavaScript and modern web technologies
+- Backend development and APIs
+- SQL and database design
+- Data structures and algorithms
+- Git and GitHub
+- Software engineering and system design
 
-<img height="160em" src="https://streak-stats.demolab.com?user=jmscrlgnt&theme=tokyonight&hide_border=true"/>
+## Career Goal
 
-</p>
-
-<p align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=jmscrlgnt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmscrlgnt&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 📈 Status Highlights
-
-- 🚀 Actively building full-stack systems and real-world applications  
-- 💻 Experience in web, desktop, and database-driven systems  
-- 🔧 Strong focus on backend logic and system design  
-- 📚 Continuously learning and improving development skills  
-
----
-
-## 🎯 Current Goal
-
-Become a highly skilled Software/Web Developer, work with global companies, build profitable products, and achieve long-term success through technology.
-
----
+To become a highly skilled software developer, contribute to professional software teams, build reliable and useful products, and eventually develop technology products of my own.
