@@ -1,107 +1,224 @@
-<h1 align="center">James Carl Giente</h1>
+<h1 align="center">Hi, I'm James Carl Giente</h1>
+
+<h3 align="center">
+  Aspiring Software Developer from the Philippines (🇵🇭)
+</h3>
 
 <p align="center">
-Computer Science Student | Aspiring Software/Web Developer
+  Passionate about building systems, web applications, and solving real-world problems through code.
 </p>
 
 <p align="center">
-Philippines
+  <a href="https://www.facebook.com/jamescarl.giente">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/jmscrl_gnt/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-<a href="mailto:gientejames@gmail.com">Email</a> ·
-<a href="https://www.facebook.com/jamescarl.giente">Facebook</a> ·
-<a href="https://www.instagram.com/jmscrl_gnt/">Instagram</a>
+  📫 Email:
+  <a href="mailto:gientejames@gmail.com">
+    gientejames@gmail.com
+  </a>
 </p>
 
 ---
 
-## About
+## 🚀 About Me
 
-I am a fourth-year Computer Science student focused on software development and building practical, real-world applications.
+- 🎓 Computer Science Student
+- 💻 Aspiring Software Developer / Engineer
+- 🌐 Focused on Full-Stack Web Development
+- 🧠 Interested in problem-solving, system design, and backend development
+- 🛠️ Experienced in building web, desktop, and database-driven systems
+- 🤝 Open to internships, freelance opportunities, and collaborations
+- 📚 Continuously learning and improving my development skills
 
-My interests include full-stack web development, backend development, databases, system design, and software engineering.
+---
 
-I am currently strengthening my skills in JavaScript, web development, SQL, Node.js, and related development technologies.
+## 💡 What I Build
 
-## Technologies
+- 🌐 Full-stack web applications
+- 🖥️ Desktop applications
+- 🗄️ Database-driven systems
+- 🔐 Authentication and authorization systems
+- 📊 Admin dashboards
+- ⚙️ CRUD-based applications
+- 🤖 Recommendation and matching systems
 
-- **Languages:** JavaScript, PHP, C#, VB.NET, Java, C++, SQL
-- **Web:** HTML, CSS, JavaScript, Node.js, Express
-- **Database:** MySQL
-- **Tools:** Git, GitHub, Dbeaver, VS Code, Visual Studio
+---
 
-## Projects
+## 🛠️ Tech Stack
 
-### SkillSync Job Matching System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,nodejs,express,html,css,mysql,git,linux,vscode" />
+</p>
 
-Full-stack job matching platform featuring authentication, administrative management, and skill-based job recommendations.
+---
 
-**Technologies:** PHP, MySQL
+## 💼 Featured Projects
 
-Repository:  
+### 💻 SkillSync — Job Matching System
+
+A full-stack internship and job matching platform that connects job seekers and employers using skill-based recommendations.
+
+**Features:**
+- 🔐 Authentication & role-based access
+- 🎯 Skill-based job recommendations
+- 👤 Job seeker profiles
+- 🏢 Employer management
+- 📋 Job posting and applications
+- 💬 Messaging system
+- 🔔 Notifications
+- 🛡️ Admin dashboard
+
+🔗 **Repository:**  
 https://github.com/jmscrlgnt/skillsync-job-matching-system
 
 ---
 
-### Multi-Core CPU Task Manager
+### 🖥️ Multi-Core CPU Task Manager
 
 Interactive operating system simulator for process scheduling and multi-core CPU resource allocation.
 
-Features include FCFS, SJF, Priority, and Round Robin scheduling, configurable CPU cores, execution timelines, process metrics, and CPU performance statistics.
+**Features:**
+- ⚙️ Process scheduling simulation
+- 🖥️ Configurable CPU cores
+- 🔄 FCFS, SJF, Priority, and Round Robin scheduling
+- 📊 Execution timelines
+- 📈 Process performance metrics
+- 🧮 CPU performance statistics
+- ⚡ Multi-core CPU resource allocation
 
 **Technologies:** HTML, CSS, JavaScript
 
-Repository:
+🔗 **Repository:**  
 https://github.com/jmscrlgnt/multi-core-cpu-task-manager
 
 ---
 
-### Anime Opening Voting System
+### 🎌 Anime Opening Voting System
 
-Desktop voting system with authentication, administrative controls, and vote tracking.
+A VB.NET desktop application designed for managing anime opening voting.
 
-**Technology:** VB.NET
+**Features:**
+- 🔐 Admin login
+- 👥 User management
+- 🗳️ Voting system
+- 📊 Vote tracking
+- 🛠️ Admin panel
 
-Repository:  
+🔗 **Repository:**  
 https://github.com/jmscrlgnt/anime-opening-voting-system-vbnet
 
 ---
 
-### RFID Attendance System
+### 📡 RFID Attendance System
 
-Attendance management system using RFID technology for automated attendance monitoring.
+A C# attendance management system that uses RFID technology for automated attendance monitoring.
 
-**Technology:** C#
-
----
-
-### POS System
-
-Point-of-sale system for managing sales, inventory, and business transactions.
-
-**Technologies:** VB.NET, MySQL
+**Features:**
+- 📡 RFID-based attendance
+- 👥 User management
+- 🕐 Attendance tracking
+- 🗄️ Database integration
+- 📊 Attendance records
 
 ---
 
-### Vehicle Shop Platform
+### 🛒 POS System
 
-Web-based system for managing vehicle listings, customer inquiries, and service-related transactions.
+A point-of-sale system designed to manage sales, inventory, and transactions for small businesses.
 
-**Technologies:** Web technologies, MySQL
+**Features:**
+- 🛍️ Product management
+- 💰 Sales processing
+- 📦 Inventory management
+- 🧾 Transaction records
+- 📊 Sales monitoring
 
 ---
 
-## Current Focus
+### 🚗 Vehicle Shop Platform
 
-- Full-stack web development
-- JavaScript and modern web technologies
-- Backend development and APIs
-- SQL and database design
-- Data structures and algorithms
-- Git and GitHub
-- Software engineering and system design
+A web-based platform for managing vehicle listings, customer inquiries, and service-related transactions.
 
-## Career Goal
+**Features:**
+- 🚘 Vehicle listings
+- 🔍 Vehicle search
+- 👤 Customer management
+- 📩 Customer inquiries
+- 🗄️ Database integration
 
-To become a highly skilled software developer, contribute to professional software teams, build reliable and useful products, and eventually develop technology products of my own.
+---
+
+### 🌐 Dynamic CRUD Web Systems
+
+A collection of web applications demonstrating practical implementation of CRUD operations and database-driven functionality.
+
+**Technologies:**
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+
+---
+
+## 📊 GitHub Activity & Insights
+
+<p align="center">
+  <img
+    height="160em"
+    src="https://streak-stats.demolab.com?user=jmscrlgnt&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api?username=jmscrlgnt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+  />
+
+  <img
+    height="160em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmscrlgnt&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 📈 Current Status
+
+- 🚀 Building full-stack and database-driven applications
+- 💻 Developing experience across web and desktop development
+- 🔧 Improving backend development and system design skills
+- 🧠 Strengthening problem-solving and DSA fundamentals
+- 🌐 Learning modern full-stack development
+- 📚 Continuously expanding my technical knowledge
+
+---
+
+## 🎯 Current Goal
+
+Become a highly skilled **Software / Web Developer**, gain professional experience, work with global companies, build useful and profitable software products, and achieve long-term success through technology.
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:gientejames@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/jamescarl.giente">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/jmscrl_gnt/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
