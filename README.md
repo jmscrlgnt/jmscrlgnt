@@ -10,7 +10,6 @@ Philippines
 
 <p align="center">
 <a href="mailto:gientejames@gmail.com">Email</a> ·
-<a href="https://github.com/jmscrlgnt">GitHub</a> ·
 <a href="https://www.facebook.com/jamescarl.giente">Facebook</a> ·
 <a href="https://www.instagram.com/jmscrl_gnt/">Instagram</a>
 </p>
@@ -52,6 +51,9 @@ Interactive operating system simulator for process scheduling and multi-core CPU
 Features include FCFS, SJF, Priority, and Round Robin scheduling, configurable CPU cores, execution timelines, process metrics, and CPU performance statistics.
 
 **Technologies:** HTML, CSS, JavaScript
+
+Repository:
+https://github.com/jmscrlgnt/multi-core-cpu-task-manager
 
 ---
 
