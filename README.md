@@ -1,7 +1,7 @@
 <h1 align="center">James Carl Giente</h1>
 
 <p align="center">
-Computer Science Student | Aspiring Software Developer
+Computer Science Student | Aspiring Software/Web Developer
 </p>
 
 <p align="center">
